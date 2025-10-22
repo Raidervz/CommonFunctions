@@ -1,1 +1,1 @@
-test js
+import commonFunctions.sql 
